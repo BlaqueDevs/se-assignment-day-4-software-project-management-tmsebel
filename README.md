@@ -8,14 +8,28 @@ Cost control contributes to the success of a software project by maintaing and m
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
 Agile and Waterfall methodologies are two distinct project management methodologies primarily used in software development.They can be both adavntageous depending on the scope and requirements of the project.
 The Agile Method is an iterative and incremental aproach to software development, it mainly focuses on collaboration,client feedback and small rapid releases.
-Advantages of Agile
+
+Advantages of Agile Methodology
 - Flexibility -Agile allows for changes to be roled in even at later stages of project development
 - Client Satisfaction -Continous delivery of functional software ensures that the client is regulary updated and can provide feed back
 - Improved Quality -Regular testing and reviews help identify and fix issues early
-Disadvantages of Agile
+Disadvantages of Agile Methodology
 - Less predictable -The flexible nature of Agile makes it difficult to predict timelines and budgets
 - Less Documentaion -The emphasis on working software can lead to less or incorrectly written documentaion
-- 
+
+  Advantages of Waterfall Methodology:
+- **Clear Structure:** Linear, phase-based approach provides a straightforward and easy-to-follow process.
+- **Predictability:** Well-defined stages and requirements make timelines and budgets easier to estimate.
+- **Documentation:** Extensive documentation at each stage aids in future maintenance and reference.
+- **Ease of Management:** Simple to manage due to its rigid and sequential nature.
+- **Suitable for Stable Requirements:** Ideal for projects with well-understood and unchanging requirements.
+
+Disadvantages of Waterfall Methodology:
+- **Inflexibility:** Difficult to accommodate changes once the project has started.
+- **Late Testing:** Testing occurs at the end, which can lead to the discovery of major issues late in the process.
+- **Limited Customer Involvement:** Minimal customer interaction during development can result in a product that doesn’t fully meet user needs.
+- **Risk of Obsolescence:** Long development cycles may result in a final product that is outdated by the time it is delivered.
+- **High Risk:** Errors or changes in requirements can be costly and time-consuming to address.
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
