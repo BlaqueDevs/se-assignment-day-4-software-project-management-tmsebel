@@ -6,6 +6,16 @@ Timely delivery is crucial in software project management for several reasons, i
 ## 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
 Cost control contributes to the success of a software project by maintaing and monitoring costs, project managers can make informed decisions about where to allocate resources to maximise productivity and reduce waste. It can help identify potential cost overruns early and allow counter measures to be implemented swiflty. Project managers can develop comprehensive project plans with accurate cost estimates for all activities.
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
+Agile and Waterfall methodologies are two distinct project management methodologies primarily used in software development.They can be both adavntageous depending on the scope and requirements of the project.
+The Agile Method is an iterative and incremental aproach to software development, it mainly focuses on collaboration,client feedback and small rapid releases.
+Advantages of Agile
+- Flexibility -Agile allows for changes to be roled in even at later stages of project development
+- Client Satisfaction -Continous delivery of functional software ensures that the client is regulary updated and can provide feed back
+- Improved Quality -Regular testing and reviews help identify and fix issues early
+Disadvantages of Agile
+- Less predictable -The flexible nature of Agile makes it difficult to predict timelines and budgets
+- Less Documentaion -The emphasis on working software can lead to less or incorrectly written documentaion
+- 
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
